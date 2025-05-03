@@ -21,8 +21,4 @@ NetPractice est un projet pratique qui m'a permis de plonger dans le monde fasci
 
 ## 🛠️ Technologies et Compétences
 
-<img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
-<img src="https://img.shields.io/badge/Subnetting-000000?style=for-the-badge&logo=network&logoColor=white" alt="Subnetting"/>
-<img src="https://img.shields.io/badge/Routing-000000?style=for-the-badge&logo=router&logoColor=white" alt="Routing"/>
-<img src="https://img.shields.io/badge/Network_Configuration-000000?style=for-the-badge&logo=network&logoColor=white" alt="Network Configuration"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving"/>
+<img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/> <img src="https://img.shields.io/badge/Subnetting-000000?style=for-the-badge&logo=network&logoColor=white" alt="Subnetting"/> <img src="https://img.shields.io/badge/Routing-000000?style=for-the-badge&logo=router&logoColor=white" alt="Routing"/> <img src="https://img.shields.io/badge/Network_Configuration-000000?style=for-the-badge&logo=network&logoColor=white" alt="Network Configuration"/> <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving"/>
